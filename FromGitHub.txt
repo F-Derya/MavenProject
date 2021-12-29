@@ -1,3 +1,4 @@
 Bu dosyayi GitHub.com dan ekledik.
 Bir satir daha ekledik
 Bir ucuncu satir ekledik
+Bu satiri local bilgisayardan ekledik
